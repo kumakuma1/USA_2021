@@ -10,3 +10,11 @@ Planung für unseren USA Trip 2021.
 - research all targets
 - search accomodation
 - research prices
+
+## Ziele
+- New York
+- Long Island
+- Philadelphia
+- Washington DC
+  - Blackwater National Wildlife Refuge
+  
