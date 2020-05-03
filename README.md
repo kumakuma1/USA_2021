@@ -4,7 +4,7 @@ Planung für unseren USA Trip 2021.
 ## Table of Contents
 
 * [Map](#map)
-* [TODO's](#todos
+* [TODO's](#todos)
 * [Raw Stuff](#raw-stuff)
 * [Einschränkungen](#einschränkungen)
 * [Ziele](#ziele)
