@@ -16,5 +16,10 @@ Planung für unseren USA Trip 2021.
 - Long Island
 - Philadelphia
 - Washington DC
+  - National Mall
+  - Capitol
+  - Tidal Basin
+  - Hillwood Estate, Museum & Gardens
   - Blackwater National Wildlife Refuge
+  - Annmarie Sculpture Garden & Arts Center
   
