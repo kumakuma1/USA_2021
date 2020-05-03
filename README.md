@@ -12,16 +12,20 @@ Planung für unseren USA Trip 2021.
 - research prices
 
 ## Ziele
-- New York
-- Long Island
-- Philadelphia
-- Washington DC
-  - National Mall
-  - Capitol
-  - Tidal Basin
-  - Smithsonian
-  - Arlington
-  - Hillwood Estate, Museum & Gardens
-  - Blackwater National Wildlife Refuge
-  - Annmarie Sculpture Garden & Arts Center
+1. New York
+- Long Island, Fire Island
+2. Philadelphia
+3. Washington DC
+- National Mall
+- Capitol
+- Tidal Basin
+- Smithsonian
+- Arlington
+- Great Falls Park
+4. Virginia
+- Grayson State Park
+- Smith Mountain Lake 
+- Hillwood Estate, Museum & Gardens
+- Blackwater National Wildlife Refuge
+- Annmarie Sculpture Garden & Arts Center
   
