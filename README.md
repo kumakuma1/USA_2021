@@ -1,6 +1,17 @@
 # USA 2021
 Planung für unseren USA Trip 2021.
 
+## Table of Contents
+
+* [Map](#map)
+* [TODO's](#todos)
+* [Ziele](#ziele)
+  *[New York](#new-york)
+  *[Philadelphia](#philadelphia)
+  *[Washington DC](#washington)
+  *[Virginia](#virginia)
+
+## Map
 ![Route](Route.png?raw=true "Mögliche Route")
 
 ## TODO's
@@ -14,17 +25,17 @@ Planung für unseren USA Trip 2021.
 - research prices
 
 ## Ziele
-1. **New York**
+### New York
   - Long Island, Fire Island
-2. **Philadelphia**
-3. **Washington DC**
+### Philadelphia
+### Washington DC
   - National Mall
   - Capitol
   - Tidal Basin
   - Smithsonian
   - Arlington
   - Great Falls Park
-4. **Virginia**
+### Virginia
   - Grayson State Park
   - Smith Mountain Lake 
   - Hillwood Estate, Museum & Gardens
