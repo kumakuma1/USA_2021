@@ -6,10 +6,10 @@ Planung für unseren USA Trip 2021.
 * [Map](#map)
 * [TODO's](#todos)
 * [Ziele](#ziele)
-  *[New York](#new-york)
-  *[Philadelphia](#philadelphia)
-  *[Washington DC](#washington)
-  *[Virginia](#virginia)
+  * [New York](#new-york)
+  * [Philadelphia](#philadelphia)
+  * [Washington DC](#washington)
+  * [Virginia](#virginia)
 
 ## Map
 ![Route](Route.png?raw=true "Mögliche Route")
