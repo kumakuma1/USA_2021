@@ -24,10 +24,10 @@ Planung für unseren USA Trip 2021.
 ## TODO's
 - improve map
 - add numbers to routes
-- list potential targets
+- list potential destinations
 - add parks to map
-- number targets
-- research all targets
+- number destinations
+- do research on all destinations
 - search accomodation
 - research prices
 - flight
@@ -37,7 +37,8 @@ Planung für unseren USA Trip 2021.
 
 ## Ziele
 ### New York
-  - Long Island, Fire Island
+  - Long Island
+  - Fire Island
 ### Philadelphia
 ### Washington DC
   - National Mall
