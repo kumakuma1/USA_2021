@@ -7,6 +7,8 @@ Planung für unseren USA Trip 2021.
 - improve map
 - add numbers to routes
 - list potential targets
+- add parks to map
+- number targets
 - research all targets
 - search accomodation
 - research prices
