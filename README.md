@@ -19,6 +19,8 @@ Planung für unseren USA Trip 2021.
   - National Mall
   - Capitol
   - Tidal Basin
+  - Smithsonian
+  - Arlington
   - Hillwood Estate, Museum & Gardens
   - Blackwater National Wildlife Refuge
   - Annmarie Sculpture Garden & Arts Center
