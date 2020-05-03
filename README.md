@@ -34,11 +34,13 @@ Planung für unseren USA Trip 2021.
 - return flight
 - car
 - tent?
+- return to New York?
 
 ## Ziele
 ### New York
-  - Long Island
-  - Fire Island
+  #### Long Island
+  Hedge Fonds, Reichengegend Hamptons, Strände, Parks, Fire Island, Montauk Point, wahrscheinlich teuer, eher Tagestrip
+  
 ### Philadelphia
 ### Washington DC
   - National Mall
