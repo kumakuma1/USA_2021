@@ -4,7 +4,9 @@ Planung für unseren USA Trip 2021.
 ## Table of Contents
 
 * [Map](#map)
-* [TODO's](#todos)
+* [TODO's](#todos
+* [Raw Stuff](#raw-stuff)
+* [Einschränkungen](#einschränkungen)
 * [Ziele](#ziele)
   * [New York](#new-york)
   * [Philadelphia](#philadelphia)
@@ -36,6 +38,11 @@ Planung für unseren USA Trip 2021.
 - tent?
 - return to New York?
 
+## Raw Stuff
+**hier kommen einfach Ideen, Dinge hin, die noch nicht bearbeitet sind, aber nicht vergessen werden sollen**
+
+## Einschränkungen
+- Fleisch hat wenig Urlaub. Daher wäre er nur für einen Teil des Trips dabei.
 ## Ziele
 ### New York
   #### Long Island
