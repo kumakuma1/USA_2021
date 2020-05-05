@@ -40,6 +40,7 @@ Planung für unseren USA Trip 2021.
 
 ## Raw Stuff
 **hier kommen einfach Ideen, Dinge hin, die noch nicht bearbeitet sind, aber nicht vergessen werden sollen**
+- axe throwing bar in tennessee
 
 ## Einschränkungen
 - Fleisch hat wenig Urlaub. Daher wäre er nur für einen Teil des Trips dabei.
