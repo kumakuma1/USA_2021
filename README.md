@@ -57,6 +57,7 @@ Planung für unseren USA Trip 2021.
   - Smithsonian
   - Arlington
   - Great Falls Park
+  - Assateague Island National Seashore
 ### Virginia
   - Grayson State Park
   - Smith Mountain Lake 
