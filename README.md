@@ -21,7 +21,7 @@ Planung für unseren USA Trip 2021.
   * [Louisiana](#louisiana)
 
 ## Map
-![Route](Map_raw.png?raw=true "Mögliche Route")
+![Route](Route.png?raw=true "Mögliche Route")
 
 ## TODO's
 - improve map
