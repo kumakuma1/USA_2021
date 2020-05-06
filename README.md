@@ -24,19 +24,19 @@ Planung für unseren USA Trip 2021.
 ![Route](Route.png?raw=true "Mögliche Route")
 
 ## TODO's
-- improve map
-- add numbers to routes
-- list potential destinations
-- add parks to map
-- number destinations
-- do research on all destinations
-- search accomodation
-- research prices
-- flight
-- return flight
-- car
-- tent?
-- return to New York?
+- [x] improve map
+- [x] add numbers to routes
+- [ ] list potential destinations
+- [ ] add parks to map
+- [ ] number destinations
+- [ ] do research on all destinations
+- [ ] search accomodation
+- [ ] research prices
+- [ ] flight
+- [ ] return flight
+- [ ] car
+- [ ] tent?
+- [ ] return to New York?
 
 ## Raw Stuff
 **hier kommen einfach Ideen, Dinge hin, die noch nicht bearbeitet sind, aber nicht vergessen werden sollen**
