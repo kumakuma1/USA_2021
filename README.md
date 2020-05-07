@@ -23,10 +23,6 @@ Planung für unseren USA Trip 2021.
 ## Map
 ![Route](Route.png?raw=true "Mögliche Route")
 
-<textarea id="theJSON"></textarea>
-Draw below:
-<canvas id="myCanvas" resize></canvas>
-
 ## TODO's
 - [x] improve map
 - [x] add numbers to routes
@@ -62,22 +58,27 @@ Draw below:
   - Arlington
   - Great Falls Park
   - Assateague Island National Seashore
+  
 ### Virginia
   - Grayson State Park
   - Smith Mountain Lake 
   - Hillwood Estate, Museum & Gardens
   - Blackwater National Wildlife Refuge
   - Annmarie Sculpture Garden & Arts Center
+  
 ### North Carolina
   - Raleigh
   - Mattamuskeet National Wildlife Refuge
   - Francis Marion National Forest
+  
 ### South Carolina
 ### Georgia
 ### Florida
 ### Alabama
 ### Tennessee
   - Nashville
+  
 ### Louisiana
   - New Orleans 
+  
   
