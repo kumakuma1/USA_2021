@@ -23,6 +23,10 @@ Planung für unseren USA Trip 2021.
 ## Map
 ![Route](Route.png?raw=true "Mögliche Route")
 
+<textarea id="theJSON"></textarea>
+Draw below:
+<canvas id="myCanvas" resize></canvas>
+
 ## TODO's
 - [x] improve map
 - [x] add numbers to routes
