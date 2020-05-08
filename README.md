@@ -22,7 +22,7 @@ Planung für unseren USA Trip 2021.
 
 ## Map
 ![Route](Route.png?raw=true "Mögliche Route")
-<img src="Route.png">
+
 ## TODO's
 - [x] improve map
 - [x] add numbers to routes
