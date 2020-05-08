@@ -21,8 +21,6 @@ Planung für unseren USA Trip 2021.
   * [Louisiana](#louisiana)
 
 ## Map
-<iframe src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d3813006.942234223!2d-77.79496484015212!3d38.2981453118756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%20City!3m2!1d40.7127753!2d-74.0059728!4m5!1s0x89e9cdf111553595%3A0x3cf0a7aa19d3203a!2sRobert%20Moses%20State%20Park!3m2!1d40.6233545!2d-73.2611703!4m5!1s0x89e8a0ac19e6eed5%3A0x48e1e6c1aeeae061!2sOrient%20Point%20Ferry!3m2!1d41.1551675!2d-72.2416622!4m5!1s0x89ef55d836195fd7%3A0x3d4100f61c982290!2sMontauk%20Lighthouse%20Museum!3m2!1d41.0709139!2d-71.85718609999999!5e0!3m2!1sde!2sde!4v1588944252896!5m2!1sde!2sde" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
 ![Route](Route.png?raw=true "Mögliche Route")
 
 ## TODO's
