@@ -79,6 +79,12 @@ Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
   - Francis Marion National Forest
   
 ### South Carolina
+  - Myrtle Beach
+  - Charleston
+  - Savannah
+  - Congaree-Nationalpark
+  - Columbia
+  
 ### Georgia
 ### Florida
 ### Alabama
