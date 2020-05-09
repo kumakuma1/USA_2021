@@ -51,6 +51,11 @@ Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
   Hedge Fonds, Reichengegend Hamptons, Strände, Parks, Fire Island, Montauk Point, wahrscheinlich teuer, eher Tagestrip
   
 ### Philadelphia
+  - One Liberty Observation Deck
+  - Rodin Museum
+  - FRanklin Institute
+  - Barnes
+  - Old Town
 ### Washington DC
   - National Mall
   - Capitol
