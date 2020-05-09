@@ -1,5 +1,6 @@
 # USA 2021
 Planung für unseren USA Trip 2021.
+Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
 
 ## Table of Contents
 
