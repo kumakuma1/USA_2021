@@ -10,7 +10,7 @@ Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
 * [Einschränkungen](#einschränkungen)
 * [Ziele](#ziele)
   * [New York](#new-york)
-  * [Philadelphia](#philadelphia)
+  * [Pennsylvania](#Pennsylvania)
   * [Washington DC](#washington)
   * [Virginia](#virginia)
   * [North Carolina](#north-carolina)
@@ -50,7 +50,8 @@ Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
   #### Long Island
   Hedge Fonds, Reichengegend Hamptons, Strände, Parks, Fire Island, Montauk Point, wahrscheinlich teuer, eher Tagestrip
   
-### Philadelphia
+### Pennsylvania  
+  #### Philadelphia
   - One Liberty Observation Deck
   - Rodin Museum
   - FRanklin Institute
