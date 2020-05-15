@@ -55,7 +55,7 @@ Scope: 1-4 Wochen full whack Roadtrip durch die Südstaaten.
   #### Philadelphia
   - One Liberty Observation Deck
   - Rodin Museum
-  - FRanklin Institute
+  - Franklin Institute
   - Barnes
   - Old Town
   
